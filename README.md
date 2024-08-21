@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan Dilmina</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Java microservice applications and DevOps, including Docker-related projects**.
+- 🔭 I’m currently working on **MVC microservice applications and DevOps, including Docker-related projects**.
 - 🌱 I’m currently learning and mastering **DevOps (AWS, Azure), and MVC frameworks like Laravel, Spring MVC, and Spring Boot**.
 - 📝 I regularly write articles on [Medium](https://medium.com/@dilmina).
 - 💬 Ask me about **my work as a Full Stack Developer specializing in creating robust and scalable server-side and frontend applications. I have expertise in PHP/Laravel/Java development, Docker containerization, and building efficient APIs**.
